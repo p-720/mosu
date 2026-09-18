@@ -42,7 +42,8 @@ osu! practice ruleset with unique mods and local PP tracking.
 
 
 
-https://github.com/user-attachments/assets/862ee4f3-dc3b-48cd-9b4a-bce583774099
+<img width="480" height="703" alt="importexport" src="https://github.com/user-attachments/assets/ea4bcd71-e92b-44df-ab2a-0c61219d3387" />
+
 
 
 
