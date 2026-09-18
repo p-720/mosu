@@ -54,6 +54,11 @@ osu! practice ruleset with unique mods and local PP tracking.
 - Suggested songs at the expanded score view.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac1c1909-a4e9-49eb-84fc-a2f12ca4c02f" />
 
+### Examples for mod usage and example maps included:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28e2e32a-a304-4195-bc28-c9c8f1e42875" />
+<img width="548" height="683" alt="image" src="https://github.com/user-attachments/assets/8a364825-32ba-43e6-b260-9d0bbd80209c" />
+
+
 
 ## Install
 
