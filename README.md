@@ -58,9 +58,8 @@ osu! practice ruleset with unique mods and local PP tracking.
 ## Install
 
 1. Navigate to osu!lazer's data directory: Settings → General → **Open osu! folder**
-2. Might want to backup client.realm just in case
-3. Copy `osu.Game.Rulesets.MOsu.dll` into the `rulesets` folder
-4. Restart osu!lazer
+2. Copy `osu.Game.Rulesets.MOsu.dll` into the `rulesets` folder
+3. Restart osu!lazer
 
 ### Download
 
