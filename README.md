@@ -6,6 +6,8 @@ mosu ruleset has been disabled/blocked in the latest tachyon/lazer release.
 
 so [2026.927.0](https://github.com/p-720/mosu/releases/tag/2026.927.0) (but just to be safe you probably shouldn't be using it either) will be the last working release and i will not be releasing updates moving forward.
 
+Check this client out, I think it implements most of the mosu features https://github.com/Azuuryy/ritsu
+
 https://github.com/jonathant09/osu-local-profiles Check this project out for local pp separate from the client and it works on stable too.
 
 # MOsu
